@@ -3,7 +3,8 @@ public class Main {
 
         for (int i=0; i<10; i++){
             System.out.println("Hello world");
-            Thread.sleep(4000);
+            Thread.sleep(1000);
+            System.out.println("test");
         }
     }
 }
